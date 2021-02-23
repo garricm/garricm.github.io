@@ -132,7 +132,7 @@ address span{
 	font-size:0.9em;
 }
 .company_details p,.company_details ul, .skill_info p,.education_details p, .publications ul {
-	color:#999;
+	color:#505050;
 	font-weight:300;
 	line-height:1.7em;
 }
