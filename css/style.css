@@ -123,7 +123,7 @@ address span{
 .company_details h4 span,.education_details h4 span{
 	font-size: 0.65em;
   margin-left: 5px;
-  color: #999;
+  color: #000;
   font-weight:400;
 }
 .company_details h6,.education_details h6{
